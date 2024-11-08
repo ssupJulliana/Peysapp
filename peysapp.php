@@ -28,7 +28,6 @@
         <button type="button" id="btnSend">Process</button> <br> <br> <br>
 
         <img src="profile.jpg" alt="Profile Image" id="profileImage">
-    </form>
 
     <script>
         const colorInput = document.getElementById('clrTheme');
@@ -64,5 +63,6 @@
 
         volumeSlider.value = 25;
     </script>
+     </form>
 </body>
 </html>
