@@ -60,7 +60,6 @@
             profileImage.style.transform = `scale(${selectedZoomLevel})`;
             profileImage.style.borderColor = colorInput.value;
         });
-
         volumeSlider.value = 25;
     </script>
      </form>
